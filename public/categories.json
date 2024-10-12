@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://img.icons8.com/nolan/64/1A6DFF/C822FF/settings-3.png",
+    "category_title": "Technology & IT",
+    "category_description": "Explore opportunities in the fast-paced world of technology."
+  },
+  {
+    "id": 2,
+    "cover_img": "https://img.icons8.com/nolan/64/1A6DFF/C822FF/dropper-patient.png",
+    "category_title": "Healthcare",
+    "category_description": "Join the essential field of healthcare and make a difference in people's lives."
+  },
+  {
+    "id": 3,
+    "cover_img": "https://img.icons8.com/nolan/64/1A6DFF/C822FF/total-sales-1.png",
+    "category_title": "Marketing & Sales",
+    "category_description": "Unleash your creativity and strategic thinking in the dynamic fields of marketing and sales."
+  },
+  {
+    "id": 4,
+    "cover_img": "https://img.icons8.com/nolan/64/1A6DFF/C822FF/engineering.png",
+    "category_title": "Engineering",
+    "category_description": "Build the future with a career in engineering. Whether it's civil, mechanical, or electrical engineering."
+  }
+]
